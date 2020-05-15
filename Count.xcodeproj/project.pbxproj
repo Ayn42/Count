@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EFAFD364246E4BFE0083F8AD /* haikei sea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EFAFD363246E4BFE0083F8AD /* haikei sea.jpg */; };
 		EFD8781F245AA48A009AF0D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD8781E245AA48A009AF0D7 /* AppDelegate.swift */; };
 		EFD87821245AA48A009AF0D7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD87820245AA48A009AF0D7 /* SceneDelegate.swift */; };
 		EFD87823245AA48A009AF0D7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD87822245AA48A009AF0D7 /* ViewController.swift */; };
@@ -15,7 +16,6 @@
 		EFD8782B245AA48E009AF0D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFD87829245AA48E009AF0D7 /* LaunchScreen.storyboard */; };
 		EFD87836245AA48E009AF0D7 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD87835245AA48E009AF0D7 /* CountTests.swift */; };
 		EFD87841245AA48E009AF0D7 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD87840245AA48E009AF0D7 /* CountUITests.swift */; };
-		EFD87851245AA8C8009AF0D7 /* haikei sea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EFD87850245AA8C8009AF0D7 /* haikei sea.jpg */; };
 		EFD87855245BD5E2009AF0D7 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EFD87854245BD5E2009AF0D7 /* icon.png */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EFAFD363246E4BFE0083F8AD /* haikei sea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "haikei sea.jpg"; sourceTree = SOURCE_ROOT; };
 		EFD8781B245AA48A009AF0D7 /* Count.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Count.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFD8781E245AA48A009AF0D7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFD87820245AA48A009AF0D7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,7 +52,6 @@
 		EFD8783C245AA48E009AF0D7 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFD87840245AA48E009AF0D7 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		EFD87842245AA48E009AF0D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EFD87850245AA8C8009AF0D7 /* haikei sea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "haikei sea.jpg"; path = "../../haikei sea.jpg"; sourceTree = "<group>"; };
 		EFD87854245BD5E2009AF0D7 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -104,7 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				EFD87854245BD5E2009AF0D7 /* icon.png */,
-				EFD87850245AA8C8009AF0D7 /* haikei sea.jpg */,
+				EFAFD363246E4BFE0083F8AD /* haikei sea.jpg */,
 				EFD8781E245AA48A009AF0D7 /* AppDelegate.swift */,
 				EFD87820245AA48A009AF0D7 /* SceneDelegate.swift */,
 				EFD87822245AA48A009AF0D7 /* ViewController.swift */,
@@ -239,8 +239,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				EFD8782B245AA48E009AF0D7 /* LaunchScreen.storyboard in Resources */,
+				EFAFD364246E4BFE0083F8AD /* haikei sea.jpg in Resources */,
 				EFD87855245BD5E2009AF0D7 /* icon.png in Resources */,
-				EFD87851245AA8C8009AF0D7 /* haikei sea.jpg in Resources */,
 				EFD87828245AA48E009AF0D7 /* Assets.xcassets in Resources */,
 				EFD87826245AA48A009AF0D7 /* Main.storyboard in Resources */,
 			);
